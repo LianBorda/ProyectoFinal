@@ -1,2 +1,3 @@
 "finalmente podemos concluir..." 
-"y por otra parte, onbservamos que..."
+"En este aspecto se mejoro un 3% Respecto a ...."
+"logramos concluir al comparar el voltaje medio y el voltaje rms que difieren de gran manera ya que ....."
